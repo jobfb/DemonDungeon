@@ -1,97 +1,118 @@
 fileFormatVersion: 2
-guid: 776a00fcc8cc5c6489848aaa83356e4c
+guid: f1bf64e37b634d8458f2c19e8738565a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4018074224661003100
-    second: Player_0
+      213: -3919981076082286801
+    second: 1Floor_1
   - first:
-      213: -4869357254534750094
-    second: Player_1
+      213: 7866271030270689315
+    second: HealF_1
   - first:
-      213: -6721728136321296765
-    second: Floor_0
+      213: -7601638585160004666
+    second: HealF_2
   - first:
-      213: -7826287199498012479
-    second: Wall_0
+      213: 5017039858128011072
+    second: HealF_3
   - first:
-      213: 6615319868462110837
-    second: HealingFountain_0
+      213: -3272624467260022385
+    second: Wal_0
   - first:
-      213: -1347233719151212251
-    second: HelingFountin_1
+      213: -4911933114060963458
+    second: Wal_1
   - first:
-      213: 7870480730772048316
-    second: HealingFountain_2
+      213: 3124417569305801657
+    second: Wal_2
   - first:
-      213: 5327950094024008212
-    second: Wall_1
+      213: -5950868152897857835
+    second: Wal_
   - first:
-      213: -407774699277236136
-    second: Wall_2
+      213: 1031563716797472259
+    second: Wal_4
   - first:
-      213: -5599750456436461424
-    second: Wall_3
+      213: -432251291309978922
+    second: Wal_5
   - first:
-      213: -7450669156800766785
-    second: Wall_4
+      213: -8909344895371290200
+    second: Wal_6
   - first:
-      213: -4272707242783423304
-    second: Wall_5
+      213: -5571453795373387570
+    second: Wal_7
   - first:
-      213: 1726203059708922746
-    second: Wall_6
+      213: -6777542173974867263
+    second: Wal_9
   - first:
-      213: 3628468241054914511
-    second: Wall_7
-  - first:
-      213: -3513202607186615407
-    second: Floo_1
-  - first:
-      213: -9198928466637730507
-    second: Floor_2
-  - first:
-      213: 3823991837180300354
-    second: Floor_3
-  - first:
-      213: -1291705123832498677
-    second: Floor_4
-  - first:
-      213: 7182614658172301277
-    second: Floor_5
-  - first:
-      213: -8369517905372312421
-    second: Floor_6
-  - first:
-      213: -9106852675655700425
-    second: Floor_7
-  - first:
-      213: 745968338076216934
+      213: -2168910207342706043
     second: Stairs_0
   - first:
-      213: -2834699621007424056
-    second: Crate_0
+      213: -4451837454641859295
+    second: Stairs_1
   - first:
-      213: -2217874986795218178
-    second: Pilar_0
+      213: 6395676210168341994
+    second: Stairs_2
   - first:
-      213: 2748396297729853354
-    second: Pilar_1
+      213: 2415934852391214970
+    second: Stairs_3
   - first:
-      213: -4446556834619780616
-    second: Pilar_2
+      213: -2651270358228210726
+    second: Stairs_4d
   - first:
-      213: -2151125692419375991
-    second: Pilar_3
+      213: -6090242428049896992
+    second: Stairs_5
   - first:
-      213: 7029400602700474323
-    second: Pilar_4
+      213: 4860871848437484857
+    second: Pillar_0
   - first:
-      213: 4355180666568580090
-    second: Pilar_5
+      213: 892476134998149120
+    second: Pillar_1
   - first:
-      213: 5894979182433546639
-    second: Crate_1
+      213: 1291842847876638210
+    second: Pillar_2
+  - first:
+      213: -8113148028172919990
+    second: Pillar_3
+  - first:
+      213: 8617186329891280890
+    second: Pillar_4
+  - first:
+      213: 5714791210641900085
+    second: Pillar_5
+  - first:
+      213: -4349100534059061429
+    second: Floor_0
+  - first:
+      213: 4507095112882632276
+    second: Floor_1
+  - first:
+      213: -3021931074376634397
+    second: Floor_2
+  - first:
+      213: -2689985827456908314
+    second: Floor_3
+  - first:
+      213: 6496097903413675742
+    second: Floor_4
+  - first:
+      213: -4114282643684335663
+    second: Floor_5
+  - first:
+      213: 7230027194290893307
+    second: Floor_6
+  - first:
+      213: 2250745685565138378
+    second: Floor_7
+  - first:
+      213: 7485034920439173087
+    second: Floor_8
+  - first:
+      213: 375571030228711055
+    second: Floor_9
+  - first:
+      213: 8412427448141376695
+    second: Floor_10
+  - first:
+      213: 6329270671169096111
+    second: Floor_11
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -181,53 +202,11 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Player_0
+      name: 1Floor_1
       rect:
         serializedVersion: 2
-        x: 128
-        y: 384
-        width: 15
-        height: 20
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c5b721af73113c730800000000000000
-      internalID: 4018074224661003100
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_1
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 416
-        width: 15
-        height: 20
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2702cfe30619c6cb0800000000000000
-      internalID: -4869357254534750094
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Floor_0
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 432
+        x: 32
+        y: 192
         width: 16
         height: 16
       alignment: 0
@@ -237,39 +216,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 38612dd8fdf97b2a0800000000000000
-      internalID: -6721728136321296765
+      spriteID: f2f9cd1fafd6999c0800000000000000
+      internalID: -3919981076082286801
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wall_0
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 496
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1c8fbbbe141736390800000000000000
-      internalID: -7826287199498012479
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HealingFountain_0
+      name: Atlas2_1
       rect:
         serializedVersion: 2
         x: 64
-        y: 496
+        y: 144
         width: 16
         height: 16
       alignment: 0
@@ -279,18 +237,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5789443fe565ecb50800000000000000
-      internalID: 6615319868462110837
+      spriteID: fc21118149e656cf0800000000000000
+      internalID: -259679821165948209
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HelingFountin_1
+      name: HealF_1
       rect:
         serializedVersion: 2
-        x: 64
-        y: 480
+        x: 0
+        y: 192
         width: 16
         height: 16
       alignment: 0
@@ -300,18 +258,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5294094021aad4de0800000000000000
-      internalID: -1347233719151212251
+      spriteID: 3200b3223db9a2d60800000000000000
+      internalID: 7866271030270689315
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HealingFountain_2
+      name: HealF_2
       rect:
         serializedVersion: 2
-        x: 64
-        y: 464
+        x: 0
+        y: 176
         width: 16
         height: 16
       alignment: 0
@@ -321,18 +279,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cb989396680993d60800000000000000
-      internalID: 7870480730772048316
+      spriteID: 6cb82a46bfd818690800000000000000
+      internalID: -7601638585160004666
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wall_1
+      name: HealF_3
       rect:
         serializedVersion: 2
-        x: 16
-        y: 480
+        x: 0
+        y: 160
         width: 16
         height: 16
       alignment: 0
@@ -342,18 +300,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4126f4fb16ea0f940800000000000000
-      internalID: 5327950094024008212
+      spriteID: 04f32b76b2b10a540800000000000000
+      internalID: 5017039858128011072
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wall_2
+      name: Wal_0
       rect:
         serializedVersion: 2
-        x: 32
-        y: 496
+        x: 0
+        y: 240
         width: 16
         height: 16
       alignment: 0
@@ -363,18 +321,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 858403d421b475af0800000000000000
-      internalID: -407774699277236136
+      spriteID: f81e6b9d26d4592d0800000000000000
+      internalID: -3272624467260022385
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wall_3
+      name: Wal_1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 480
+        x: 0
+        y: 224
         width: 16
         height: 16
       alignment: 0
@@ -384,18 +342,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 090f54de0a0b942b0800000000000000
-      internalID: -5599750456436461424
+      spriteID: e710be77bde45dbb0800000000000000
+      internalID: -4911933114060963458
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wall_4
+      name: Wal_2
       rect:
         serializedVersion: 2
-        x: 48
-        y: 496
+        x: 0
+        y: 208
         width: 16
         height: 16
       alignment: 0
@@ -405,144 +363,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fbc5ee190e7e99890800000000000000
-      internalID: -7450669156800766785
+      spriteID: 9b33674b9392c5b20800000000000000
+      internalID: 3124417569305801657
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wall_5
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 480
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8b4c7a4866b44b4c0800000000000000
-      internalID: -4272707242783423304
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wall_6
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 464
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a7b84287984b4f710800000000000000
-      internalID: 1726203059708922746
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wall_7
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 448
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fc75dda04a8ea5230800000000000000
-      internalID: 3628468241054914511
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Floo_1
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 416
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1936aaea7d89e3fc0800000000000000
-      internalID: -3513202607186615407
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Floor_2
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 432
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 53d44df2c47d65080800000000000000
-      internalID: -9198928466637730507
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Floor_3
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 416
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 24c0027c05c811530800000000000000
-      internalID: 3823991837180300354
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Floor_4
+      name: Wal_
       rect:
         serializedVersion: 2
         x: 16
-        y: 432
+        y: 240
         width: 16
         height: 16
       alignment: 0
@@ -552,18 +384,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b06796b9801f21ee0800000000000000
-      internalID: -1291705123832498677
+      spriteID: 5d69659a1f44a6da0800000000000000
+      internalID: -5950868152897857835
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_5
+      name: Wal_4
       rect:
         serializedVersion: 2
         x: 16
-        y: 416
+        y: 224
         width: 16
         height: 16
       alignment: 0
@@ -573,18 +405,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ddfafdaf9f5cda360800000000000000
-      internalID: 7182614658172301277
+      spriteID: 30e15e62cb9d05e00800000000000000
+      internalID: 1031563716797472259
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_6
+      name: Wal_5
       rect:
         serializedVersion: 2
         x: 16
-        y: 400
+        y: 208
         width: 16
         height: 16
       alignment: 0
@@ -594,18 +426,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b9c03050fcf79db80800000000000000
-      internalID: -8369517905372312421
+      spriteID: 6dac3cf9db5500af0800000000000000
+      internalID: -432251291309978922
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_7
+      name: Wal_6
       rect:
         serializedVersion: 2
         x: 32
-        y: 400
+        y: 240
         width: 16
         height: 16
       alignment: 0
@@ -615,8 +447,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 730f9bdddb5fd9180800000000000000
-      internalID: -9106852675655700425
+      spriteID: 8a954f97506ab5480800000000000000
+      internalID: -8909344895371290200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0744cba483ea2b0800000000000000
+      internalID: -5571453795373387570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2dffd3d4551f1a0800000000000000
+      internalID: -6777542173974867263
       vertices: []
       indices: 
       edges: []
@@ -626,9 +500,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 80
-        y: 320
+        y: 208
         width: 16
-        height: 20
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -636,39 +510,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 66ea8bc40463a5a00800000000000000
-      internalID: 745968338076216934
+      spriteID: 5828e9568ab76e1e0800000000000000
+      internalID: -2168910207342706043
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Crate_0
-      rect:
-        serializedVersion: 2
-        x: 289
-        y: 193
-        width: 14
-        height: 20
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8c50beca6bf19a8d0800000000000000
-      internalID: -2834699621007424056
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pilar_0
+      name: Stairs_1
       rect:
         serializedVersion: 2
         x: 96
-        y: 415
+        y: 208
         width: 16
         height: 16
       alignment: 0
@@ -678,18 +531,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: efac8d743768831e0800000000000000
-      internalID: -2217874986795218178
+      spriteID: 125fa4efb65e732c0800000000000000
+      internalID: -4451837454641859295
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pilar_1
+      name: Stairs_2
       rect:
         serializedVersion: 2
         x: 96
-        y: 399
+        y: 224
         width: 16
         height: 16
       alignment: 0
@@ -699,18 +552,60 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aa7cf240fd3442620800000000000000
-      internalID: 2748396297729853354
+      spriteID: ae5208d90a102c850800000000000000
+      internalID: 6395676210168341994
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pilar_2
+      name: Stairs_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f9345b2ff178120800000000000000
+      internalID: 2415934852391214970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stairs_4d
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbe84ef7abc43bd0800000000000000
+      internalID: -2651270358228210726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stairs_5
       rect:
         serializedVersion: 2
         x: 96
-        y: 383
+        y: 240
         width: 16
         height: 16
       alignment: 0
@@ -720,18 +615,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8f117e62e18aa42c0800000000000000
-      internalID: -4446556834619780616
+      spriteID: 0e9c21877cc1b7ba0800000000000000
+      internalID: -6090242428049896992
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pilar_3
+      name: Pillar_0
       rect:
         serializedVersion: 2
-        x: 80
-        y: 415
+        x: 208
+        y: 32
         width: 16
         height: 16
       alignment: 0
@@ -741,18 +636,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 98c7024749aa522e0800000000000000
-      internalID: -2151125692419375991
+      spriteID: 93d00d03139457340800000000000000
+      internalID: 4860871848437484857
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pilar_4
+      name: Pillar_1
       rect:
         serializedVersion: 2
-        x: 80
-        y: 399
+        x: 208
+        y: 48
         width: 16
         height: 16
       alignment: 0
@@ -762,18 +657,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d7e0e3da927d8160800000000000000
-      internalID: 7029400602700474323
+      spriteID: 0080415f056b26c00800000000000000
+      internalID: 892476134998149120
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pilar_5
+      name: Pillar_2
       rect:
         serializedVersion: 2
-        x: 80
-        y: 383
+        x: 208
+        y: 64
         width: 16
         height: 16
       alignment: 0
@@ -783,8 +678,323 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: afb1873ddb5b07c30800000000000000
-      internalID: 4355180666568580090
+      spriteID: 206e055c93c8de110800000000000000
+      internalID: 1291842847876638210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b979a8ade486f80800000000000000
+      internalID: -8113148028172919990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7958caf45669770800000000000000
+      internalID: 8617186329891280890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532c5dbe3540f4f40800000000000000
+      internalID: 5714791210641900085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fa2f65b14e4a3c0800000000000000
+      internalID: -4349100534059061429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456b444202b6c8e30800000000000000
+      internalID: 4507095112882632276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efe010e2b1ff06d0800000000000000
+      internalID: -3021931074376634397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3889f54204baad0800000000000000
+      internalID: -2689985827456908314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6c12710a6c62a50800000000000000
+      internalID: 6496097903413675742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfd3a5ebb127e6c0800000000000000
+      internalID: -4114282643684335663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf17f184d67365460800000000000000
+      internalID: 7230027194290893307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac56adba6414c3f10800000000000000
+      internalID: 2250745685565138378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfcb2c4a9f20e760800000000000000
+      internalID: 7485034920439173087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86b5b4bcdb463500800000000000000
+      internalID: 375571030228711055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc66317132feb470800000000000000
+      internalID: 8412427448141376695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9055a342616d750800000000000000
+      internalID: 6329270671169096111
       vertices: []
       indices: 
       edges: []
